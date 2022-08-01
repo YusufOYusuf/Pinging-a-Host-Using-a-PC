@@ -1,4 +1,4 @@
-<h1>Configuring Advanced Ethernet Options</h1>
+<h1>Pinging a Host Using a PC</h1>
 
 
 <h2>Description</h2>
